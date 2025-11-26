@@ -4,13 +4,15 @@ layout: default
 
 ---
 
----
 
-### About Me
+
+## About Me
 
 저는 게임 개발자입니다. 유니티를 통해서 다양한 게임을 제작해보았고, 최근에는 ECS를 공부하면서 뱀서라이크 장르의 게임을 제작 중입니다.
 
 ---
 
-### Project
+
+
+## Project
 
